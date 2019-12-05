@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://222.170.215.84:8090/app_distribute/KJ95X-APP.ipa</string>
+            <string>http://61.132.89.53:9191/app_distribute/KJ95X-APP.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://222.170.215.84:8090/app_distribute/logo.png</string>
+            <string>http://61.132.89.53:9191/app_distribute/logo.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://222.170.215.84:8090/app_distribute/logo.png</string>
+            <string>http://61.132.89.53:9191/app_distribute/logo.png</string>
           </dict>
         </array>
         <key>metadata</key>
